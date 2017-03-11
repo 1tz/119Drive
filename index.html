@@ -1,5 +1,8 @@
 <!DOCTYPE HTML>
 <HTML>
+
+
+
 <body>
 	<h1>欢迎来到共享云盘</h1>
 	<p>总流量：200G</p>
@@ -9,5 +12,25 @@
 	<button>提交</button>
 	<p>成功下载！下载文件： 大小： </p>
 	<p>自觉捐助：共 元（0.5元/G）</p>
+	<script type="text/javascript" language="javascript">
+<!--
+function GetLocalIPAddress()
+{
+var obj = null;
+var rslt = "";
+try
+{
+obj = new ActiveXObject("rcbdyctl.Setting");
+rslt = obj.GetIPAddress;
+obj = null;
+}
+catch(e)
+{
+//异常发生
+}
+return rslt;
+}
+document.write("你的IP是：" + GetLocalIPAddress());
+</script>
 </body>
 </HTML>
