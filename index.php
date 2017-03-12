@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<h1>施工中</h1>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 链接：<input type="text" name="fname">
 <input type="submit">
@@ -12,7 +12,7 @@ echo "<p>";
 echo date("l");
 echo "好呀肥猫";
 echo "</p>";
-system("cd .. && cat readme.rtf",$output);
+system("cat readme.md",$output);
 echo $output;
 $name = $_REQUEST['fname']; 
 echo $name; 
