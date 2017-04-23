@@ -25,7 +25,7 @@ http://rudolf:lTz961122@aria2.leettt.com:8080/jsonrpc
 
 ## 四、取回文件
 
-####`password => ltz961122`
+#### `password => ltz961122`
 
 1. 方法一（不推荐）
 
@@ -44,8 +44,8 @@ http://rudolf:lTz961122@aria2.leettt.com:8080/jsonrpc
 * 使用以下命令即可取回
 
 	```
-rscp [文件名]
-```
+	rscp [文件名]
+	```
 
 ## 五、其他
 
