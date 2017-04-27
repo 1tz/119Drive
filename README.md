@@ -15,13 +15,14 @@
 ## 三、配置
 
 * 添加DNS地址172.22.109.96（首选)
-* 访问
+* 访问**（直接粘贴请注意没有首和尾的空格）**
 
 	```
 	ftp://www.119drive.com:6021/119drive/
 	```
 	下载YAAW.zip（正好测试DNS解析是否正确）
-* JSON-RPC Path设置为
+* JSON-RPC Path设置为**（直接粘贴请注意没有首和尾的空格）**
+
 
 	```
 	http://rudolf:lTz961122@aria2.119drive.com:8080/jsonrpc
