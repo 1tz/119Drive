@@ -18,7 +18,7 @@
 * 访问**（直接粘贴请注意没有首和尾的空格）**
 
 	```
-	ftp://www.119drive.com:6021/119drive/
+	ftp://www.119drive.com/119drive
 	```
 	下载YAAW.zip（正好测试DNS解析是否正确）
 * JSON-RPC Path设置为**（直接粘贴请注意没有首和尾的空格）**
@@ -32,7 +32,7 @@
 
 ## 四、取回文件
 
-* 蜜汁Ftp被动模式，现在访问`ftp://www.119drive.com:6021`即可
+* 蜜汁Ftp被动模式，现在访问`ftp://www.119drive.com`即可
 
 ## 五、其他
 
