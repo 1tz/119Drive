@@ -22,7 +22,7 @@ XP没办法做丝袜的客户端很伤，实际使用中总觉得一个路由器
 ### 配置
 
 * 添加DNS地址172.22.109.96（首选)
-* 访问`ftp://www.119drive.com/119drive`下载YAAW.zip（正好测试DNS解析是否正确）
+* 访问`ftp://www.119drive.com/AiCard_01/119Drive/`下载YAAW.zip（正好测试DNS解析是否正确）
 * JSON-RPC Path设置为`http://rudolf:lTz961122@aria2.119drive.com:8080/jsonrpc`
 	
 * 使用百度云导出下载需要下载插件[BaiduExporter](https://github.com/acgotaku/BaiduExporter)
