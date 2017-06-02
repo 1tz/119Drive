@@ -41,3 +41,5 @@ XP没办法做丝袜的客户端很伤，实际使用中总觉得一个路由器
 * 有校内IP之后，使用丝袜local可以建立Socks5代理，再将该端口以内网穿透的方式转到WIN XP的某个端口上，配合电脑上使用Proxifier即可免除校内所有无线的流量（只要连着BNU就可以上网）。IOS完全免流需要下载Patatso 2或其他Socks5代理软件，Android则需要Root之后安装Proxydroid
 * 宿舍拔掉BNU-Mobile的网线，TB上买一个POE分线器+一个电源分线器即可解决两个路由器的供电问题
 * 本项目有效期至2018年毕业，有问题可以开Issue
+
+![](./free.png)
