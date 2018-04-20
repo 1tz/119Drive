@@ -3,9 +3,9 @@
 * 网络拓扑是这样的：
   ![Network](./res/network.png)
 
-* 提供校内内网穿透，目前使用 0.14.1 版本，token 详见 frpc.ini，参数设置见 [frp](https://github.com/fatedier/frp)
+* 使用校内内网穿透实现，目前使用 0.16.1 版本。师弟的虚拟机，恕不提供端口。
 
-* 本项目有效期至2018年3月，已失效，需要连接BNU-Mobile才能使用免流，配合Proxifier（Mac / Win都有）、小火箭或者土豆丝（手机端）使用。
+* 本项目有效期至2018年10月（不过早就滚蛋了），需要连接BNU-Mobile才能使用免流，配合Proxifier（Mac / Win都有）、小火箭或者土豆丝（手机端）使用。
 
   ![](./res/free.png)
 
